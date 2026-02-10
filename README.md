@@ -1,4 +1,4 @@
-# Floor Plan 2d -> 2d
+# Floor Plan 2d -> 3d
 
 This is a simple repository for converting 2D floor plans (in PNG/JPG) format to 3D models (in OBJ/GLB) format. The libraries utilized are mentioned in `requirements.txt`.
 The flow is simple:
